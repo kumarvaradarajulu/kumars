@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="logo.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    id="svg8317"
    version="1.1"
    viewBox="0 0 152.64677 57.852755"
@@ -309,7 +309,7 @@
            style="fill:#00467d" />
       </g>
       <rect
-         style="fill:#d6a365;fill-opacity:0.149758;stroke:#e2d9cc;stroke-width:3.428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.811594;paint-order:markers fill stroke"
+         style="fill:#d6a365;fill-opacity:0.149758;stroke:#c4a084;stroke-width:3.428;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.81159401;paint-order:markers fill stroke;opacity:0.2"
          id="rect17911"
          width="149.21877"
          height="54.424755"
